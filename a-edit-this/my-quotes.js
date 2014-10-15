@@ -20,13 +20,23 @@
 var ezMQ = {
   "ezobj":[
   
-	// copy & paste a row at a time. 
+    {
+	  'index'		: 2,
+	  'title'		: '',
+	  'idea_size'	: 130,
+	  'idea'		: "The TEDx Talk I gave that was posted on TED.com continues to spread far and wide not because any social media strategy. It spreads because this message is inherently optimistic. It is inherently human. And those who believe in it share it.",
+	  'quotes'		: false,
+	  'select'		: 'The TEDx Talk',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Preface',
+	  'caption'		: setupCaption
+    },
     {
 	  'index'		: 2,
 	  'title'		: '',
 	  'idea_size'	: 155,
 	  'idea'		: "It was such a simple, powerful and actionable idea, that I shared it with my friends. That's what we do when we find something of value, we share it with the people we love.",
-	  'quotes'		: true,
+	  'quotes'		: false,
 	  'select'		: 'Value, we share it',
 	  'who'			: 'Simon Sinek',
 	  'note'		: 'Start With Why - Preface',
