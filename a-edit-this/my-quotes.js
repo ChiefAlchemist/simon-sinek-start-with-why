@@ -20,10 +20,59 @@
 var ezMQ = {
   "ezobj":[
   
-    {
-	  'index'		: 2,
+      {
+	  'index'		: 7,
 	  'title'		: '',
-	  'idea_size'	: 130,
+	  'idea_size'	: 100,
+	  'idea'		: "This book is not designed to tell you what to do or how to do it. Its goal is not to give you a course of action. Its goal it to offer you the cause of action.<br><br>For those who have an open mind for new ideas, who seek to create long-lasting success and who believe that your success requires the aid of others, I offer you a challenge. From now on, start with Why.",
+	  'quotes'		: false,
+	  'select'		: 'This book',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Introduction',
+	  'caption'		: setupCaption
+    },    
+  
+      {
+	  'index'		: 6,
+	  'title'		: '',
+	  'idea_size'	: 105,
+	  'idea'		: "Great leaders, in contrast, are able to inspire people to act. Those who are able to inspire give people a sense of purpose or belonging that has little to do with any external incentive or benefit to be gained. Those who truly lead are able to create a following of people who act not because they are swayed, but because they were inspired.",
+	  'quotes'		: false,
+	  'select'		: 'Great leaders',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Introduction',
+	  'caption'		: setupCaption
+    },  
+  
+  
+      {
+	  'index'		: 5,
+	  'title'		: '',
+	  'idea_size'	: 115,
+	  'idea'		: "No matter how visionary or how brilliant, a great idea or a great product isn't worth much if no one buys it.",
+	  'quotes'		: false,
+	  'select'		: 'A great product',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Introduction',
+	  'caption'		: setupCaption
+    },  
+  
+    {
+	  'index'		: 4,
+	  'title'		: '',
+	  'idea_size'	: 90,
+	  'idea'		: "This book is about a naturally occuring pattern, a way of thinking, acting and communicating that give some leaders the ability to inspire those around them...<br><br>With a little discipline, any leader or organization can inspire others, both inside and outside their organization, to help advance their ideas and their vision. We can all learn to lead...<br><br>However,if we're starting with the wrong questions, if we don't understand the cause, then even the right answers will always steer us wrong...eventually. The truth, you see, is always revealed...eventually.",
+	  'quotes'		: false,
+	  'select'		: 'The truth',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Introduction',
+	  'caption'		: setupCaption
+    },  
+  
+    {
+	  'index'		: 3,
+	  'title'		: '',
+	  'idea_size'	: 105,
 	  'idea'		: "The TEDx Talk I gave that was posted on TED.com continues to spread far and wide not because any social media strategy. It spreads because this message is inherently optimistic. It is inherently human. And those who believe in it share it.",
 	  'quotes'		: false,
 	  'select'		: 'The TEDx Talk',
@@ -31,10 +80,11 @@ var ezMQ = {
 	  'note'		: 'Start With Why - Preface',
 	  'caption'		: setupCaption
     },
+	
     {
 	  'index'		: 2,
 	  'title'		: '',
-	  'idea_size'	: 155,
+	  'idea_size'	: 105,
 	  'idea'		: "It was such a simple, powerful and actionable idea, that I shared it with my friends. That's what we do when we find something of value, we share it with the people we love.",
 	  'quotes'		: false,
 	  'select'		: 'Value, we share it',
