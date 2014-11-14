@@ -20,6 +20,66 @@
 var ezMQ = {
   "ezobj":[
   
+        {
+	  'index'		: 12,
+	  'title'		: '',
+	  'idea_size'	: 93,
+	  'idea'		: "Every instruction we give, every course of action we set, every result we desire, starts with the same thing: a decision. There are those who decide to manipulate the door to fit to achieve the desired result and there are those who start from somewhere very different. Though both courses of action may yield similar short-term results, it is what we can't see that makes long-term success more predictable for only one. The one that understood why the doors need to fit by design and not by default.",
+	  'quotes'		: false,
+	  'select'		: 'Fit by design and not by default',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 1',
+	  'caption'		: setupCaption
+    },
+  
+       {
+	  'index'		: 11,
+	  'title'		: '',
+	  'idea_size'	: 105,
+	  'idea'		: "In the Japanese auto plant, they didn't examine the problem and accumulate data to figure out the best solution&mdash;they engineered the outcome they wanted from the beginning. If they didn't achieve their desired outcomes, they understood it was because of a decision they made at the start of the process.",
+	  'quotes'		: false,
+	  'select'		: 'The Japanese auto plant',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 1',
+	  'caption'		: setupCaption
+    },   
+  
+       {
+	  'index'		: 10,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "More data, however, doesn't always help, especially if a flawed assumption set the whole process in motion in the first place. There are other factors that must be considered, factors that exist outside of our rational, analytical, information-hungry brains.",
+	  'quotes'		: false,
+	  'select'		: 'There are other factors',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 1',
+	  'caption'		: setupCaption
+    },  
+  
+       {
+	  'index'		: 9,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Not only bad decisions are made on false assumptions. Sometimes when things go right, we think we know why, but do we really? That the result went the way you wanted does not mean you can repeat it over and over.<br><br>You have to be careful what you think you know. Assumptions, you see, even when based on sound research, can lead us astray.",
+	  'quotes'		: false,
+	  'select'		: 'But do we really?',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 1',
+	  'caption'		: setupCaption
+    },
+    
+       {
+	  'index'		: 8,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "The point is, we make assumptions. We make assumptions about the world around us based on sometimes incomplete or false information.<br><br>This is important because our behavior is affected by our assumptions or our personal truths.",
+	  'quotes'		: false,
+	  'select'		: 'We make assumptions',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 1',
+	  'caption'		: setupCaption
+    }, 
+  
       {
 	  'index'		: 7,
 	  'title'		: '',
