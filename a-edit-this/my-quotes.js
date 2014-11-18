@@ -20,6 +20,145 @@
 var ezMQ = {
   "ezobj":[
   
+// ------------------- Chapter 2 ------------------------
+
+        {
+	  'index'		: 23,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Buckling or even collapse is the only logical conclusion when manipulations are the main course of action.<br><br>The reality is, in today's world, manipulations are the norm.<br><br>But there is an alternative.",
+	  'quotes'		: false,
+	  'select'		: 'There is an alternative',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 22,
+	  'title'		: '',
+	  'idea_size'	: 90,
+	  'idea'		: "It's in the tough times that loyal customers matter most.<br><br>Knowing you have a loyal customer and employee base not only reduces costs, it provides massive peace of mind. Like loyal friends, you know your customers and employees will be there for you when you need them most. It is the feeling of &ldquo;we're in this together,&rdquo; shared between customer and company, voter and candidate, boss and employee, that defines great leaders.",
+	  'quotes'		: false,
+	  'select'		: 'Great leaders',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 21,
+	  'title'		: '',
+	  'idea_size'	: 105,
+	  'idea'		: "Addicted to the short-term results, business today has largely become a series of quick fixes added on one after another after another.",
+	  'quotes'		: false,
+	  'select'		: 'Business today',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+	
+        {
+	  'index'		: 20,
+	  'title'		: '',
+	  'idea_size'	: 95,
+	  'idea'		: "There is a big difference between repeat business and loyalty. Repeat business is when people do business with you multiple times. Loyalty is when people are willing to turn down a better product or a better price to continue doing business with you.<br><br>Loyalty is not easily won.",
+	  'quotes'		: false,
+	  'select'		: 'Loyalty is not easily won',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 19,
+	  'title'		: '',
+	  'idea_size'	: 97,
+	  'idea'		: "I cannot dispute that manipulations work. Every one of them can indeed help influence behavior and every one of them can help a company become quite successful. But there are trade-offs. Not a single one of them breeds loyalty.",
+	  'quotes'		: false,
+	  'select'		: 'There are trade-offs',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+	
+        {
+	  'index'		: 18,
+	  'title'		: '',
+	  'idea_size'	: 97,
+	  'idea'		: "There are literally dozens and dozens of toothpastes to choose from, yet there is no data to show that Americans are brushing their teeth more now than they were in the 1970s. Thanks to all this &ldquo;innovation,&rdquo; it has become almost impossible to know which toothpaste is right for you.",
+	  'quotes'		: false,
+	  'select'		: 'Toothpaste',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+	
+
+        {
+	  'index'		: 17,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Like so many before it, the company confused innovation with novelty.<br><br>Real innovation changes the course of industries or even society.",
+	  'quotes'		: false,
+	  'select'		: 'Real innovation',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 16,
+	  'title'		: '',
+	  'idea_size'	: 91,
+	  'idea'		: "This short-term response to long-term desires is alive and well in the corporate world also. A management consultant friend of mine was hired by a billion-dollar company to help it fulfill its goals and aspirations. The problem was, she explained, no matter the issue, the company's managers were always drawn to the quicker, cheaper option over the better long-term solution. Just like the habitual dieter, &ldquo;they never have the time or money to do it right the first time,&rdquo; she said of her client, &ldquo;but they always have the time and money to do it again.&rdquo;",
+	  'quotes'		: false,
+	  'select'		: 'In the corporate world',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+	
+        {
+	  'index'		: 15,
+	  'title'		: '',
+	  'idea_size'	: 95,
+	  'idea'		: "In nearly every circumstance, the companies that are forced to treat their products as commodities brought it upon themselves. I cannot debate that dropping the price is not a perfectly legitimate way of driving business; the challenge is staying profitable.<br><br>Price always costs something. The question is, how much are you willing to pay for the money you make?",
+	  'quotes'		: false,
+	  'select'		: 'Price always costs something',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 14,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "When companies or organizations do not have a clear sense of why their customers are their customers, they tend to rely on a disproportionate number of manipulations to get what they need. And for good reason. Manipulations work.",
+	  'quotes'		: false,
+	  'select'		: 'Manipulations work',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 13,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "The reality is, most business today are making decisions based on a set of incomplete or, worse, completely flawed assumptions about what's driving their business.<br<br>There are only two ways to influence behavior: you can manipulate it or you can inspire it.",
+	  'quotes'		: false,
+	  'select'		: 'Two ways to influence behavior',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 2',
+	  'caption'		: setupCaption
+    },
+
+
+  
+// ------------------- Chapter 1 ------------------------
+  
         {
 	  'index'		: 12,
 	  'title'		: '',
@@ -79,6 +218,9 @@ var ezMQ = {
 	  'note'		: 'Start With Why - Chapter 1',
 	  'caption'		: setupCaption
     }, 
+	
+	
+// ------------------- Introduction ------------------------
   
       {
 	  'index'		: 7,
@@ -129,6 +271,9 @@ var ezMQ = {
 	  'caption'		: setupCaption
     },  
   
+
+// ------------------- Preface ------------------------
+
     {
 	  'index'		: 3,
 	  'title'		: '',
