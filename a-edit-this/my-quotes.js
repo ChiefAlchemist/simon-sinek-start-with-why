@@ -20,6 +20,155 @@
 var ezMQ = {
   "ezobj":[
   
+// ------------------- Chapter 3 ------------------------
+	
+        {
+	  'index'		: 35,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Instead of asking, &ldquo;WHAT should we do to compete?&rdquo; the questions must be asked, &ldquo;WHY did we start doing WHAT we are doing in the first place, and WHAT can we do to bring our cause to life considering all the technologies and market  opportunities available today?&rdquo;",
+	  'quotes'		: false,
+	  'select'		: 'The questions must be asked',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+	
+        {
+	  'index'		: 34,
+	  'title'		: '',
+	  'idea_size'	: 90,
+	  'idea'		: "And all those big railroad companies eventually went out of business. What if they had defined themselves as being in the mass transportation business? Perhaps their behavior would have been different. Perhaps they would have seen opportunities that they otherwise missed. Perhaps they would own all the airlines today.<br><br>The story of the railroads has eerie similarities to the case of the music industry discussed earlier.",
+	  'quotes'		: false,
+	  'select'		: 'The mass transportation business',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 33,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Knowing your WHY is not the only way to be successful, but it is the only way to maintain a lasting success and have a greater blend of innovation and flexibility. When a WHY goes fuzzy, it becomes much more difficult to maintain the growth, loyalty and inspiration that help drive the original success.",
+	  'quotes'		: false,
+	  'select'		: 'Maintain a lasting success',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+	
+	        {
+	  'index'		: 32,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "A simple claim of better, even with the rational evidence to back it up, can create desire and even motivate a decision to buy, but it doesn't create loyalty.",
+	  'quotes'		: false,
+	  'select'		: 'But it doesn\'t create loyalty',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+	
+        {
+	  'index'		: 31,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "This is largely a pattern for almost every other product or service on the market today, business to consumer or business to business. They focus on WHAT they do and HOW they do it without consideration of WHY; we lump them together and they act like commodities. The more we treat them like commodities, the more they focus on WHAT and HOW they do it. It's a vicious cycle.",
+	  'quotes'		: false,
+	  'select'		: 'It\'s a vicious cycle',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+
+        {
+	  'index'		: 30,
+	  'title'		: '',
+	  'idea_size'	: 87,
+	  'idea'		: "As any company forced to compete on price, quality, service or features alone can attest, it is very hard to differentiate for any period of time or build loyalty on these factors alone. Plus it costs money and and is stressful waking up every day trying to compete on that level alone. Knowing WHY is essential for lasting success and the ability to avoid being lumped in with others.",
+	  'quotes'		: false,
+	  'select'		: 'Hard to differentiate',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 29,
+	  'title'		: '',
+	  'idea_size'	: 150,
+	  'idea'		: "People don't buy WHAT you do, they buy WHY you do it.",
+	  'quotes'		: false,
+	  'select'		: 'People don\'t buy WHAT you do',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 28,
+	  'title'		: '',
+	  'idea_size'	: 80,
+	  'idea'		: "Companies try to sell us WHAT they do, but we buy WHY they do it. This is what I mean when I say they communicate from the outside in; they lead with WHAT and HOW.<br><br>People don't buy WHAT you do, they buy WHY you do it. This is the reason Apple has earned a remarkable level of flexibility.<br><br>It's not WHAT Apple does that distinguishes them. It is WHY they do it. Their products give life to their cause.",
+	  'quotes'		: false,
+	  'select'		: 'But we buy WHY they do it',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 27,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "But that is not what the inspiring leaders and organizations do. Every one of them, regardless of the size or industry, thinks, acts and communicates from the inside out.",
+	  'quotes'		: false,
+	  'select'		: 'What the inspiring leaders do',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 26,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "WHY: Very few people or companies can clearly articulate WHY they do WHAT they do. When I say WHY, I don't mean to make money&mdash;that's the result. By WHY I mean what is your purpose, cause or belief? WHY does your company exist? WHY do you get out of bed every morning? And WHY should anyone care?",
+	  'quotes'		: false,
+	  'select'		: 'Clearly articulate WHY',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 25,
+	  'title'		: '',
+	  'idea_size'	: 140,
+	  'idea'		: "And it all starts from the inside out.<br><br>It all starts with WHY.",
+	  'quotes'		: false,
+	  'select'		: 'From the inside out',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 24,
+	  'title'		: '',
+	  'idea_size'	: 80,
+	  'idea'		: "The concept of The Golden Circle was inspired by the golden ratio...<br><br>Like the golden ratio, which offers evidence of order in the seeming disorder of nature, the Golden Circle finds order and predictability in human behavior but simply, it helps us understand why we do what we do...<br><br>The Golden Circle shows how these leaders or able to inspire action instead of manipulating people to act.",
+	  'quotes'		: false,
+	  'select'		: 'Inspired by the golden ratio',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 3',
+	  'caption'		: setupCaption
+    },	
+	
+  
 // ------------------- Chapter 2 ------------------------
 
         {
