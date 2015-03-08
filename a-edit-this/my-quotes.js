@@ -20,6 +20,248 @@
 var ezMQ = {
   "ezobj":[
   
+// ------------------- Chapter 4 ------------------------
+
+        {
+	  'index'		: 55,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Products with a clear sense of WHY give people a way to tell the outside world who they are and what they believe. Remember, people don't buy WHAT you do, they buy they buy WHY you do it. If the company does not have a clear sense of WHY then it is impossible for an outside world to perceive anything more than WHAT the company does. And when that happens, manipulators that rely on pushing price, features, service or quality become the primary currency of differentiation.",
+	  'quotes'		: false,
+	  'select'		: 'Products with a clear sense of WHY',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 54,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "The amount of market research that reveals that people want to do business with the company that offers them the best quality products, with the most features, the best service and all at a good price is astonishing. But consider the companies with the greatest loyalty&mdash;they rarely have all those things.",
+	  'quotes'		: false,
+	  'select'		: 'Companies with the greatest loyalty',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 53,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "I am not, for a moment, proposing that cup holders make people loyal to BMWs. All I am proposing is that even for rationally minded car buyers, there is more to decision-making than meets the eye. Literally.",
+	  'quotes'		: false,
+	  'select'		: 'There is more to decision-making',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 52,
+	  'title'		: '',
+	  'idea_size'	: 107,
+	  'idea'		: "Great leaders or those who trust their gut. They are those who understand the art before the science. They win hearts before minds. They are the ones who start with WHY.",
+	  'quotes'		: false,
+	  'select'		: 'Understand the art before the science',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 51,
+	  'title'		: '',
+	  'idea_size'	: 120,
+	  'idea'		: "This is the genius of great leadership. Great leaders and great organizations are good at seeing what most of us can't see. They're good at giving us things we would never think of asking for.",
+	  'quotes'		: false,
+	  'select'		: 'The genius of great leadership',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 50,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "The ability to win hearts before minds is not easy. It's a delicate balance of art and science&mdash;another coincidental grammatical construction. Why is it that things are not a balance of science and art, but always art and science? Perhaps it is a subtle clue our language impaired limbic brain is sending us to help us see that the art of leading is about following your heart. Perhaps our brains are telling us that WHY must come first.",
+	  'quotes'		: false,
+	  'select'		: 'Art and science',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 49,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Most companies are quite adept at winning minds; all that requires is a comparison of the features and benefits. Winning hearts, however takes more work. Given the evidence of the natural order of decision-making, I can't help but wonder if the order of the expression &ldquo;hearts and minds&rdquo; is a coincidence. Why does no one set out to win &ldquo;minds and hearts&rdquo;?",
+	  'quotes'		: false,
+	  'select'		: 'Hearts and minds',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 48,
+	  'title'		: '',
+	  'idea_size'	: 120,
+	  'idea'		: "People don't buy WHAT you do, they buy WHY you do it. A failure to communicate WHY creates nothing but stress or doubt.",
+	  'quotes'		: false,
+	  'select'		: 'Nothing but stress or doubt',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 47,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "Companies that fail to communicate a sense of WHY force us to make decisions with only empirical evidence. This is why those decisions take more time, feel more difficult, or leave us uncertain.",
+	  'quotes'		: false,
+	  'select'		: 'Companies that fail to communicate',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 46,
+	  'title'		: '',
+	  'idea_size'	: 130,
+	  'idea'		: "The more time spent thinking about the answer, the bigger the risk that it may be the wrong one. Our limbic brains are smart and often know the right things to do.",
+	  'quotes'		: false,
+	  'select'		: 'The more time spent thinking',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 45,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "Richard Restak, a well-known neuroscientist, talks about this in his book The Naked Brain. When you force people to make decisions with only the rational part of their brain, they almost inevitably end up &ldquo;overthinking.&rdquo; These rational decisions tend to take longer to make, says Restakk, and can often be of lower quality. In contrast, decisions made with the limbic brain, gut decisions, tend to be faster, higher quality decisions.",
+	  'quotes'		: false,
+	  'select'		: 'The Naked Brain',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 44,
+	  'title'		: '',
+	  'idea_size'	: 125,
+	  'idea'		: "The reason gut decisions feel right is because the part of the brain that controls them also controls our feelings.",
+	  'quotes'		: false,
+	  'select'		: 'Gut decisions feel right ',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 43,
+	  'title'		: '',
+	  'idea_size'	: 130,
+	  'idea'		: "Again, the part of the brain that controls decision-making doesn't control language, so we rationalize.",
+	  'quotes'		: false,
+	  'select'		: 'So we rationalize',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 42,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "But when we communicate from the inside out, we're talking directly to the part of the brain that controls decision-making, and our language part of the brain allows us to rationalize those decisions.",
+	  'quotes'		: false,
+	  'select'		: 'From the inside out',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 41,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "When we communicate from the outside in, when we communicate WHAT we do first, yes, people can understand vast amounts of complicated information, like facts and features, but it does not drive behavior.",
+	  'quotes'		: false,
+	  'select'		: 'From the outside in',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 40,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "We are drawn to leaders and organizations that are good at communicating what they believe. Their ability to make us feel like we belong, to make us feel special, safe and not alone is part of what gives them the ability to inspire us.",
+	  'quotes'		: false,
+	  'select'		: 'Communicating what they believe',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 39,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "Our natural need to belong also makes us good at spotting things that don't belong. It's a sense we get. A feeling. Something deep inside us, something we can't put into words, allows us to feel how some things just fit and some things just don't.",
+	  'quotes'		: false,
+	  'select'		: 'Some things just fit',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 38,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "When a company clearly communicates their WHY, what they believe, and we believe what they believe, then we will sometimes go to extraordinary lengths to include those products or brands in our lives.",
+	  'quotes'		: false,
+	  'select'		: 'Extraordinary lengths',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 37,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "No matter where we go, we trust those with whom we are able to perceive common values or beliefs.",
+	  'quotes'		: false,
+	  'select'		: 'Common values or beliefs',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+	
+        {
+	  'index'		: 36,
+	  'title'		: '',
+	  'idea_size'	: 110,
+	  'idea'		: "As with so many things, Dr. Seuss explained it best. The Sneetches perfectly capture a very basic human need&mdash;the need to belong.",
+	  'quotes'		: false,
+	  'select'		: 'Dr. Seuss explained it best',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 4',
+	  'caption'		: setupCaption
+    },
+  
 // ------------------- Chapter 3 ------------------------
 	
         {
