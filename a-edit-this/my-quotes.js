@@ -27,7 +27,7 @@ var ezMQ = {
 	  'idea_size'	: 100,
 	  'idea'		: "The goal of business should not be to do business with anyone who simply wants WHAT you have. It should be to focus on the people who believe WHAT you believe. When we are selective about doing business only with those who believe in our WHY, trust emerges.",
 	  'quotes'		: false,
-	  'select'		: 'Products with a clear sense of WHY',
+	  'select'		: 'Only with those who believe in our WHY',
 	  'who'			: 'Simon Sinek',
 	  'note'		: 'Start With Why - Chapter 5',
 	  'caption'		: setupCaption
