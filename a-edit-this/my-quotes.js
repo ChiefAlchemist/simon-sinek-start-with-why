@@ -1,5 +1,4 @@
-/**
- * Note: Please scroll to the bottom for more details. The top has been reserved for notes and such.
+/* Note: Please scroll to the bottom for more details. The top has been reserved for notes and such.
  *
  * <br> = return
  * <br><br> = paragraph break
@@ -19,6 +18,186 @@
  
 var ezMQ = {
   "ezobj":[
+  
+// ------------------- Chapter 5 ------------------------
+	
+        {
+	  'index'		: 70,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "The goal of business should not be to do business with anyone who simply wants WHAT you have. It should be to focus on the people who believe WHAT you believe. When we are selective about doing business only with those who believe in our WHY, trust emerges.",
+	  'quotes'		: false,
+	  'select'		: 'Products with a clear sense of WHY',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 69,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "...We turn away business because those potential clients don't believe what we believe and they are not interested in anything to do with inspiring people.",
+	  'quotes'		: false,
+	  'select'		: 'We turn away business',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 68,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "That's when the power of WHY can be fully realized. The ability to put a WHY into words provides the emotional context for decisions.",
+	  'quotes'		: false,
+	  'select'		: 'The power of WHY can be fully realized',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 67,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "In business, like a bad date, many companies work so hard to prove their value without saying WHY they exist in the first place.",
+	  'quotes'		: false,
+	  'select'		: 'In business, like a bad date',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 66,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Depending on how badly you want to close the deal, you could tell them anything they want to hear. Promise them the world and the odds are good that you will close the deal. Once. Maybe twice. With time, however, maintaining that relationship will cost more and more. No matter the manipulations you choose, this is not the way to build a trusting relationship.",
+	  'quotes'		: false,
+	  'select'		: 'You could tell them anything',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 65,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "To learn how to apply WHY to a business situation, you'd needn't look much farther than how we act on a date. Because, in reality, there is no difference between sales and dating. In both circumstances, you sit across the table from someone and hope to say enough of the right things to close the deal.",
+	  'quotes'		: false,
+	  'select'		: 'Sales and dating',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 64,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "When we are inspired, the decisions we make have more to do with who we are and less to do with the companies or the products we are buying...<br><br>Loyalty, real emotional value, exist in the brain of the buyer, not the seller.",
+	  'quotes'		: false,
+	  'select'		: 'In the brain of the buyer',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 63,
+	  'title'		: '',
+	  'idea_size'	: 120,
+	  'idea'		: "Only when the WHY is clear and when people believe what you believe can a true loyal relationship develop.",
+	  'quotes'		: false,
+	  'select'		: 'A true loyal relationship',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 62,
+	  'title'		: '',
+	  'idea_size'	: 99,
+	  'idea'		: "It is a false assumption that differentiation happens in HOW and WHAT you do. Simply offering a high-quality product with more features are better service or better price does not create difference. Doing so guarantees no success. Differentiation happens in WHY and HOW you do it.",
+	  'quotes'		: false,
+	  'select'		: 'Differentiation happens in WHY and HOW',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 61,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Authenticity is when you say and do the things you actually believe...Without WHY any attempt at authenticity will almost always be in authentic.",
+	  'quotes'		: false,
+	  'select'		: 'Without WHY',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 60,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Everything you say and everything you do has to prove what you believe. A WHY is just a belief. That's all it is. HOWs are the actions you take to realize that belief. And WHATs are the results of those actions&mdash;everything you say and do: your products, services, marketing, PR, culture and whom you hire.",
+	  'quotes'		: false,
+	  'select'		: 'A WHY is just a belief',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 59,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "For values or guiding principles to be truly effective they have to be verbs. It's not &lsquo;integrity,&rsquo; it's &lsquo;always do the right thing.&rsquo; It's not &lsquo;innovation&rsquo;, it's &lsquo;look at the problem from a different angle.&rsquo; Articulating our values as verbs gives us a clear idea...we have a clear idea of how to act in any situation.",
+	  'quotes'		: false,
+	  'select'		: 'Guiding principles...have to be verbs',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+
+        {
+	  'index'		: 58,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Making it even more difficult for ourselves, we remind ourselves of our values by writing them on the wall...as nouns. Integrity. Honesty. Innovation. Communication, for example. But nouns are not actionable. They are things. You can't build systems or develop incentives around those things. It's impossible to hold people accountable to nouns.",
+	  'quotes'		: false,
+	  'select'		: 'Nouns are not actionable',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },	
+        {
+	  'index'		: 57,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "Manipulations can motivate the outcome of an election, but they don't help choose who should lead. To lead requires those who willingly follow. It requires those who believe in something bigger than a single issue. To inspire starts with the clarity of WHY.",
+	  'quotes'		: false,
+	  'select'		: 'Help choose who should lead',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
+        {
+	  'index'		: 56,
+	  'title'		: '',
+	  'idea_size'	: 100,
+	  'idea'		: "It all starts with clarity. You have to know WHY you do WHAT you do. If people don't buy WHAT you do, they buy WHY you do it, so it follows that if you don't know WHY you do WHAT you do, how will anyone else?",
+	  'quotes'		: false,
+	  'select'		: 'How will anyone else?',
+	  'who'			: 'Simon Sinek',
+	  'note'		: 'Start With Why - Chapter 5',
+	  'caption'		: setupCaption
+    },
   
 // ------------------- Chapter 4 ------------------------
 
